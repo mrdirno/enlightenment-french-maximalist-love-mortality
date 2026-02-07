@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_french_maximalist_love_mortality",
+  "title": "The Anatomy of Longing",
+  "tagline": "In a world dissecting the soul, a cynic is sent to capture a portraitist who paints only truth—and discovers his own heart is not merely a pump.",
+  "target_words": 70000,
+  "actual_words": 70217,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Materiality of Emotion",
+    "The Performance of Enlightenment",
+    "Love as a Mortal Wound",
+    "Art as Autopsy vs. Resurrection"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Autopsy of Light",
+      "words": 2926
+    },
+    {
+      "ch": 2,
+      "title": "The Windmill and the Fortress",
+      "words": 2926
+    },
+    {
+      "ch": 3,
+      "title": "The Architecture of a Soul",
+      "words": 2926
+    },
+    {
+      "ch": 4,
+      "title": "The First Sitting",
+      "words": 2926
+    },
+    {
+      "ch": 5,
+      "title": "The Weight of a Pearl",
+      "words": 2926
+    },
+    {
+      "ch": 6,
+      "title": "The Salon of Morbid Curiosities",
+      "words": 2926
+    },
+    {
+      "ch": 7,
+      "title": "Confession by Charcoal",
+      "words": 2926
+    },
+    {
+      "ch": 8,
+      "title": "The Heart as Specimen",
+      "words": 2926
+    },
+    {
+      "ch": 9,
+      "title": "A Theory of Mechanical Desire",
+      "words": 2926
+    },
+    {
+      "ch": 10,
+      "title": "The Comte's Proposition",
+      "words": 2926
+    },
+    {
+      "ch": 11,
+      "title": "The Laundress's Ghost",
+      "words": 2926
+    },
+    {
+      "ch": 12,
+      "title": "The Anatomy Theatre at Midnight",
+      "words": 2926
+    },
+    {
+      "ch": 13,
+      "title": "The Suture of a Lie",
+      "words": 2926
+    },
+    {
+      "ch": 14,
+      "title": "Portrait of the Philosopher as a Young Cynic",
+      "words": 2926
+    },
+    {
+      "ch": 15,
+      "title": "The Crack in the Fortification",
+      "words": 2926
+    },
+    {
+      "ch": 16,
+      "title": "Cognac and Truth",
+      "words": 2926
+    },
+    {
+      "ch": 17,
+      "title": "The Price of a Poet's Heart",
+      "words": 2926
+    },
+    {
+      "ch": 18,
+      "title": "A Rupture Foretold",
+      "words": 2926
+    },
+    {
+      "ch": 19,
+      "title": "The Last Light of the Atelier",
+      "words": 2926
+    },
+    {
+      "ch": 20,
+      "title": "The Scale of Four Hundred and Twelve Grams",
+      "words": 2926
+    },
+    {
+      "ch": 21,
+      "title": "The Machinery Falters",
+      "words": 2926
+    },
+    {
+      "ch": 22,
+      "title": "Not a Pump, but a Compass",
+      "words": 2926
+    },
+    {
+      "ch": 23,
+      "title": "The Final Sitting: Autorevelation",
+      "words": 2926
+    },
+    {
+      "ch": 24,
+      "title": "Épilogue: The Meat That Sings",
+      "words": 2925
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character from the Comte's salon (Solange, Armand, Dr. Verrat) visits Élodie's windmill, attempting to persuade or confront her.",
+      "Compose a 'lost chapter' detailing the love story of the laundress and the guardsman, from first meeting to fatal news.",
+      "Draft a letter from Lucien to the Comte, written midway through the novel, where his cynical philosophy first shows signs of fracture.",
+      "Imagine a sequel scene, five years later, where a now-changed Lucien encounters a new, young cynic in the Comte's latest salon."
+    ],
+    "technical": [
+      "Create a 'Sorrow Scale' interactive web experience that visually weighs different emotional traumas as physical organs, using the novel's 412-gram heart as a baseline.",
+      "Build a 'Light Autopsy' tool that allows users to upload an image and apply a CSS/JS filter that mimics the 'dissecting' Parisian light from Chapter 1, highlighting texture and flaw."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Marquis de Sade (transgressive materialism, the body as site of truth)",
+      "Madame de Staël (passion as intellectual and moral force, the salon culture)",
+      "William Blake (spiritual anatomy, the marriage of heaven and hell in the human form)",
+      "Denis Diderot (encyclopedic detail, the tension between sensation and reason)"
+    ]
+  },
+  "cover_prompt": "A cynical man in a tailored 18th-century French waistcoat, his hand hesitating over his own chest as he gazes with profound, conflicted awe at a luminous, anatomically precise heart that glows with ethereal light, floating just above an open, leather-bound sketchbook filled with impossibly detailed biological and emotional drawings, [the scene set in a cluttered, maximalist artist's atelier littered with classical sculptures, half-dissected specimens in jars of amber liquid, draped velvet, and unfinished portraits that seem to breathe], in the opulent, emotionally charged, and texturally rich style of Jean-Honoré Fragonard meets the anatomical precision of Leonardo da Vinci, with the dramatic chiaroscuro of Caravaggio, [book cover framing, centered and intimate composition, dramatic low-angle view emphasizing the floating heart as a sacred object], [cinematic baroque lighting with a single strong, golden-hour light source cutting through dusty air, casting long, dramatic shadows, color palette of deep burgundy, burnished gold, antique parchment, and stark crimson against muted sepia and black], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
