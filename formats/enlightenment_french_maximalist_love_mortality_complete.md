@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER ONE
 
 The first thing you must understand is that the light in Paris, on this particular October afternoon, was not merely illuminating; it was performing a kind of autopsy. It sliced through the high windows of the *atelier*, dissecting the dust motes that swirled above the chaos, laying bare every stain on the marble slab, every crimson droplet on the surgeon’s sleeve, every flaw in the pearl necklace discarded on the sideboard. It was a light that permitted no secrets, and into its merciless theatre, I, Lucien de Saint-Clair, was about to make my entrance, already late, already stained, and carrying a human heart in a velvet-lined box.
