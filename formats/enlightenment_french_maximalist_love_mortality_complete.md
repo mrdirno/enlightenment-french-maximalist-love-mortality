@@ -2,7 +2,8 @@
 
 ## CHAPTER ONE
 
-The first thing you must understand is that the light in Paris, on this particular October afternoon, was not merely illuminating; it was performing a kind of autopsy. It sliced through the high windows of the *atelier*, dissecting the dust motes that swirled above the chaos, laying bare every stain on the marble slab, every crimson droplet on the surgeon’s sleeve, every flaw in the pearl necklace discarded on the sideboard. It was a light that permitted no secrets, and into its merciless theatre, I, Lucien de Saint-Clair, was about to make my entrance, already late, already stained, and carrying a human heart in a velvet-lined box.
+Monsieur de Valois died at the precise moment the clockwork nightingale in his salon began its third aria, a fact his mistress, the Marquise de Chantilly, noted with a detached, almost clinical precision as the warmth fled his hand and settled into the cooling wax of the taper beside their bed.
+
 
 My boots, crusted with the peculiar mud of Père Lachaise cemetery, echoed on the herringbone parquet. The room—a grand, ruined thing that smelled of turpentine, formaldehyde, and tuberose—fell silent. A dozen faces turned from the cadaver on the slab. There was the surgeon, Dr. Verrat, his hands paused mid-incision, a glistening strand of something fibrous connecting his scalpel to the open chest cavity. There was the poet, Armand, pale as the lilies wilting in a Sèvres vase, a handkerchief pressed to his lips. There was the courtesan, Solange, draped in peacock silks, her eyes bright with a morbid hunger. And there, at the head of the table, stood my patron, the Comte de Valois, a man who collected experiences as others collected snuffboxes.
 
